@@ -17,7 +17,15 @@ analysis with R packages.
 
 Please cite this compendium as:
 
-> **{{ PLEASE ADD A CITATION }}**
+> Valle-Campos A (2023). rcompendiumtest7: Research Compendium for
+> Epidemic Analysis. <https://github.com/avallecam/rcompendiumtest7>.
+
+    @Manual{,
+      title = {rcompendiumtest7: Research Compendium for Epidemic Analysis},
+      author = {Andree Valle-Campos},
+      year = {2023},
+      note = {https://github.com/avallecam/rcompendiumtest7, https://avallecam.github.io/rcompendiumtest7/},
+    }
 
 ### Content
 
