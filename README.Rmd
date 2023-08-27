@@ -38,7 +38,7 @@ Please cite this compendium as:
   title = {rcompendiumtest7: Research Compendium for Epidemic Analysis},
   author = {Andree Valle-Campos},
   year = {2023},
-  note = {https://github.com/avallecam/rcompendiumtest7, https://avallecam.github.io/rcompendiumtest7/},
+  note = {https://github.com/avallecam/rcompendiumtest7},
 }
 ```
 
