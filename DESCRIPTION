@@ -18,3 +18,7 @@ RoxygenNote: 7.2.3
 Imports: 
     devtools,
     here
+VignetteBuilder: knitr
+Suggests: 
+    knitr,
+    rmarkdown
