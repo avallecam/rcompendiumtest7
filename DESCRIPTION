@@ -21,4 +21,5 @@ Imports:
 VignetteBuilder: knitr
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    tidyverse
